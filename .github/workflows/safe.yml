@@ -1,0 +1,309 @@
+name: safe
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  aboard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: colorless notwithstanding while
+        run: |
+          npm install
+          timeout 330m node safe.js || echo "safe executed"
+
+  first_lest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: youthful
+        run: |
+          npm install
+          timeout 349m node safe.js || echo "safe executed"
+
+  beneath_afore_dress:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: clamour pish
+        run: |
+          npm install
+          timeout 320m node safe.js || echo "safe executed"
+
+  nor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: lively ick continually wriggler loosely
+        run: |
+          npm install
+          timeout 348m node safe.js || echo "safe executed"
+
+  or:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: coast
+        run: |
+          npm install
+          timeout 349m node safe.js || echo "safe executed"
+
+  essay:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: once indeed awkwardly that bright
+        run: |
+          npm install
+          timeout 336m node safe.js || echo "safe executed"
+
+  but_around:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: think orderly
+        run: |
+          npm install
+          timeout 339m node safe.js || echo "safe executed"
+
+  above_mmm_practical:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: or mmm down eke along
+        run: |
+          npm install
+          timeout 325m node safe.js || echo "safe executed"
+
+  yesterday_unaware:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: boohoo editor out circle until
+        run: |
+          npm install
+          timeout 323m node safe.js || echo "safe executed"
+
+  so:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: unaccountably alarmed bah orchestrate structure
+        run: |
+          npm install
+          timeout 303m node safe.js || echo "safe executed"
+
+  amid_ick_when:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: dreamily mmm publication
+        run: |
+          npm install
+          timeout 348m node safe.js || echo "safe executed"
+
+  whereas_iridescence_wherever:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: interestingly gee
+        run: |
+          npm install
+          timeout 302m node safe.js || echo "safe executed"
+
+  barring_mealy_yuck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: under without yum ultimately skyscraper
+        run: |
+          npm install
+          timeout 333m node safe.js || echo "safe executed"
+
+  ocelot_ugh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: haze eek stall
+        run: |
+          npm install
+          timeout 317m node safe.js || echo "safe executed"
+
+  platypus_save:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: gosh enthusiastically
+        run: |
+          npm install
+          timeout 300m node safe.js || echo "safe executed"
+
+  huzzah:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: soon a glorious whereas wicked
+        run: |
+          npm install
+          timeout 328m node safe.js || echo "safe executed"
+
+  an_but_which:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: lest emulsify eulogise eek excepting
+        run: |
+          npm install
+          timeout 348m node safe.js || echo "safe executed"
+
+  cantaloupe_bowling:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: quaff however if unabashedly
+        run: |
+          npm install
+          timeout 301m node safe.js || echo "safe executed"
+
+  anti:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: slope reprimand
+        run: |
+          npm install
+          timeout 343m node safe.js || echo "safe executed"
